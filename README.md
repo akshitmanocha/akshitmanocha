@@ -16,9 +16,11 @@
 
 </div>
 
+## 🎓 About Me
+
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-function-animation-fe7t4gejurmtof8v.gif">
 
-## 🎓 About Me
+
 ```python
 class AkshitManocha:
     def __init__(self):
@@ -86,48 +88,23 @@ class AkshitManocha:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/akshitmanocha/FakeNewsDetection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=FakeNewsDetection&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akshitmanocha/ChessEngine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ChessEngine&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/akshitmanocha/Low-Light-Image-Denoiser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Low-Light-Image-Denoiser&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akshitmanocha/Neural-Style-Transfer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Neural-Style-Transfer&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/akshitmanocha/Physics-Informed-Neural-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Physics-Informed-Neural-Network&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akshitmanocha/ANN-from-scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ANN-from-scratch&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Solar Irradiance Prediction](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Solar-Irradiance-Prediction-Using-HMM&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Solar-Irradiance-Prediction-Using-HMM)
+
+[![Chess Engine](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ChessEngine&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/ChessEngine)
+
+[![Low Light Enhancement](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Low-Light-Image-Denoiser&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Low-Light-Image-Denoiser)
+
+[![Neural Style Transfer](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Neural-Style-Transfer&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Neural-Style-Transfer)
+
+[![Navier-Stokes PINNs](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Navier-Stokes-with-PINNs&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Navier-Stokes-with-PINNs)
+
+[![ANN From Scratch](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ANN-from-scratch&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/ANN-from-scratch)
 
 </div>
+
+[Rest of the content remains the sa
 
 ## 🏆 Achievements & Certifications
 
