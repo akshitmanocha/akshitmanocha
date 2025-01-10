@@ -86,22 +86,46 @@ class AkshitManocha:
   - Band-Pass Filtering
 - 📈 Processed diverse EEG datasets with robust preprocessing pipeline
 
-## 🚀 Featured Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-[![Solar Irradiance Prediction](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Solar-Irradiance-Prediction-Using-HMM&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Solar-Irradiance-Prediction-Using-HMM)
-
-[![Chess Engine](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ChessEngine&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/ChessEngine)
-
-[![Low Light Enhancement](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Low-Light-Image-Denoiser&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Low-Light-Image-Denoiser)
-
-[![Neural Style Transfer](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Neural-Style-Transfer&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Neural-Style-Transfer)
-
-[![Navier-Stokes PINNs](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Navier-Stokes-with-PINNs&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/Navier-Stokes-with-PINNs)
-
-[![ANN From Scratch](https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ANN-from-scratch&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF)](https://github.com/akshitmanocha/ANN-from-scratch)
-
+##🚀 Featured Projects
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/Solar-Irradiance-Prediction-Using-HMM" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Solar-Irradiance-Prediction-Using-HMM&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="Solar Irradiance Prediction" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/Navier-Stokes-with-PINNs" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Navier-Stokes-with-PINNs&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="Navier-Stokes PINNs" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/ChessEngine" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ChessEngine&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="Chess Engine" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/Neural-Style-Transfer" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Neural-Style-Transfer&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="Neural Style Transfer" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/Low-Light-Image-Denoiser" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=Low-Light-Image-Denoiser&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="Low Light Enhancement" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+      <td align="center" style="border: none;"> 
+        <a href="https://github.com/akshitmanocha/ANN-from-scratch" target="_blank"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshitmanocha&repo=ANN-from-scratch&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" alt="ANN From Scratch" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"> 
+        </a> 
+      </td> 
+    </tr> 
+  </table> 
 </div>
 
 [Rest of the content remains the sa
