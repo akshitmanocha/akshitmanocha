@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=539BF5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Akshit+Manocha;Deep+Learning+Researcher;ML+%26+AI+Enthusiast;Chemical+Engineering+Student" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=539BF5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akshit+Manocha;ML+%26+AI+Enthusiast;Chemical+Engineering+Student" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/akshit-manocha/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
