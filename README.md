@@ -74,14 +74,9 @@ class AkshitManocha:
 ## 🔬 Research Experience
 
 ### Research Intern @ PARIMAL Lab
-<img align="right" width="150" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" />
 
 - 🧠 Implemented state-of-the-art EEG processing models for BCI applications
 - 📊 Achieved 97.5% accuracy using advanced parameter-efficient fine-tuning
-- 🔧 Expertise in signal processing:
-  - Fast Fourier Transform (FFT)
-  - Differential Entropy Extraction
-  - Band-Pass Filtering
 - 📈 Processed diverse EEG datasets with robust preprocessing pipeline
 
 ## 🏆 Achievements & Certifications
