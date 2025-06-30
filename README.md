@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=539BF5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akshit+Manocha;ML+%26+AI+Enthusiast;Sophomore @IITR" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=539BF5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akshit+Manocha;ML+%26+AI+Enthusiast;Pre-Final Year @IITR" alt="Typing SVG" />
 <a href="https://www.linkedin.com/in/akshit-manocha/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -22,7 +22,7 @@ class AkshitManocha:
         self.education = {
             "institute": "IIT Roorkee",
             "major": "Chemical Engineering",
-            "cgpa": 8.52
+            "cgpa": 8.30
         }
         self.interests = [
             "Deep Learning",
@@ -73,7 +73,7 @@ class AkshitManocha:
 <div align="center">
 
 ### 🏅 Competitions
-- Silver Medal in **FIDE & Google Efficient Chess AI Challenge** on Kaggle (46th position out of 1127 teams)
+- Silver Medal in **FIDE & Google Efficient Chess AI Challenge** on Kaggle (46th position out of 1120 teams)
   - [Competition Link](https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge)
 
 ### 📚 Coursework
